@@ -3,7 +3,7 @@
 ##### BIO
 
 - 🏢 I'm currently working on **OpenGL**
-- ⚙️ I use: `.cpp`, `.c`, `.html`, `.css`, `.svg`, `.psd`, `.ai`, `.py`, `.java`
+- ⚙️ I use: `.cpp`, `.c`, `.html`, `.css`, `.svg`, `.psd`, `.ai`, `.py`, `.java`, `.js`, `.blend`
 - 🌱 Learning all about **Graphics Programming**
 - 💬 Ping me about **OpenGL**
 - 📫 Reach me: **aishanyudas09@gmail.com**
